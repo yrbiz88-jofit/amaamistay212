@@ -1,14 +1,6 @@
-2026/05/31-20:42:31.962 8dc Reusing MANIFEST C:\bot-wa-aas\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/05/31-20:42:31.963 8dc Recovering log #32
-2026/05/31-20:42:32.406 8dc Reusing old log C:\bot-wa-aas\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000032.log 
-2026/05/31-20:44:07.130 156c Level-0 table #38: started
-2026/05/31-20:44:07.568 156c Level-0 table #38: 1568989 bytes OK
-2026/05/31-20:44:07.614 156c Delete type=0 #32
-2026/05/31-20:44:51.177 8dc Compacting 1@1 + 2@2 files
-2026/05/31-20:44:51.885 8dc Generated table #39@1: 36968 keys, 2215381 bytes
-2026/05/31-20:44:52.187 8dc Generated table #40@1: 49482 keys, 1429036 bytes
-2026/05/31-20:44:52.187 8dc Compacted 1@1 + 2@2 files => 3644417 bytes
-2026/05/31-20:44:52.218 8dc compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/05/31-20:44:52.218 8dc Delete type=2 #34
-2026/05/31-20:44:52.218 8dc Delete type=2 #35
-2026/05/31-20:44:52.218 8dc Delete type=2 #38
+2026/05/31-21:49:18.654 1354 Reusing MANIFEST C:\bot-wa-aas\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/31-21:49:18.654 1354 Recovering log #37
+2026/05/31-21:49:18.734 1354 Reusing old log C:\bot-wa-aas\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000037.log 
+2026/05/31-21:55:33.543 d90 Level-0 table #43: started
+2026/05/31-21:55:33.800 d90 Level-0 table #43: 1662478 bytes OK
+2026/05/31-21:55:33.832 d90 Delete type=0 #37

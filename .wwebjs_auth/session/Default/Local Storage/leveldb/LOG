@@ -1,3 +1,6 @@
-2026/05/31-20:42:31.348 3b8 Reusing MANIFEST C:\bot-wa-aas\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/31-20:42:31.360 3b8 Recovering log #3
-2026/05/31-20:42:31.440 3b8 Reusing old log C:\bot-wa-aas\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2026/05/31-21:49:16.546 eec Reusing MANIFEST C:\bot-wa-aas\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/31-21:49:16.557 eec Recovering log #3
+2026/05/31-21:49:16.561 eec Reusing old log C:\bot-wa-aas\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2026/05/31-21:50:16.575 17a0 Level-0 table #5: started
+2026/05/31-21:50:16.653 17a0 Level-0 table #5: 16312 bytes OK
+2026/05/31-21:50:16.698 17a0 Delete type=0 #3
