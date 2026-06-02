@@ -2,7 +2,20 @@ const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 
 const client = new Client({
-    authStrategy: new LocalAuth()
+    authStrategy: new LocalAuth(),
+    puppeteer: {
+        executablePath: '/usr/bin/google-chrome-stable', // Opsional, coba hapus jika masih error
+        args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--disable-accelerated-2d-canvas',
+            '--no-first-run',
+            '--no-zygote',
+            '--single-process', // Penting untuk menghemat RAM di Render
+            '--disable-gpu'
+        ],
+    }
 });
 
 client.on('qr', (qr) => {
